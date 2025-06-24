@@ -45,7 +45,7 @@ I'm always eager to learn, grow, and take on new challenges in the world of web 
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=mohammad-oli56&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
+  
 ![](https://nirzak-streak-stats.vercel.app/?user=mohammad-oli56&theme=tokyonight&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-oli56&theme=tokyonight&hide_border=true&layout=compact)
 
