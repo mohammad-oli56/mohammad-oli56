@@ -1,4 +1,5 @@
-<img src=" https://i.ibb.co/8L2vpfFf/Whats-App-Image-2025-06-25-at-13-04-16-64e13c0f.jpg " alt="GitHub Banner" style="width:100%;">
+![GitHub Banner](https://i.ibb.co/8L2vpfFf/Whats-App-Image-2025-06-25-at-13-04-16-64e13c0f.jpg)
+
 
 
 
