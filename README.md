@@ -21,8 +21,8 @@ I love combining clean UI with solid backend logic to deliver user-friendly expe
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadoli)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mohammadoli.dev)   
+[![LinkedIn](https://www.linkedin.com/in/mohammad-oli-8565b52a0/)
+[![Facebook](https://www.facebook.com/share/1LXmipy851/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olimohammad286@gmail.com)
 
 ---
