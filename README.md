@@ -1,5 +1,5 @@
-<!-- Banner (optional) -->
-<img src="[https://i.ibb.co/8L2vpfFf/Whats-App-Image-2025-06-25-at-13-04-16-64e13c0f.jpg](https://cdn-imgix.headout.com/media/images/c9db3cea62133b6a6bb70597326b4a34-388-dubai-img-worlds-of-adventure-tickets-01.jpg?auto=format&w=1222.3999999999999&h=687.6&q=90&fit=crop&ar=16%3A9&crop=faces)" alt="Whats-App-Image-2025-06-25-at-13-04-16-64e13c0f" border="0">
+![GitHub Banner](https://cdn-imgix.headout.com/media/images/c9db3cea62133b6a6bb70597326b4a34-388-dubai-img-worlds-of-adventure-tickets-01.jpg?auto=format&w=1222.3999999999999&h=687.6&q=90&fit=crop&ar=16%3A9&crop=faces)
+
 
 # 💫 About Me:
 👋 Hi, I'm **Mohammad Oli** — MERN Stack Developer  
