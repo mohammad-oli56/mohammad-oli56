@@ -3,7 +3,8 @@
 ![GitHub Banner](https://i.ibb.co/FNDWTZb/Whats-App-Image-2025-06-25-at-13-23-36-2652704b.jpg)
 
 
-
+<h1 align="center">Hi 👋, I'm Mohammad Oli</h1>
+<h3 align="center">MERN Stack Developer | Frontend Focused | Animation Enthusiast</h3>
 
 
 # 💫 About Me:
@@ -23,9 +24,7 @@ I'm always eager to learn, grow, and take on new challenges in the world of web 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadoli)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mohammadoli.dev)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Oli)  
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/mohammadoli.bsky.social)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mohammadoli.dev)   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olimohammad286@gmail.com)
 
 ---
