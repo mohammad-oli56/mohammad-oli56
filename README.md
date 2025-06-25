@@ -1,5 +1,5 @@
 <!-- Banner (optional) -->
-<img src="[https://your-banner-image-link.com/banner.png" alt="banner](https://ibb.co/YF8nM1v1)" />
+<img src="https://ibb.co/YF8nM1v1" />
 
 # 💫 About Me:
 👋 Hi, I'm **Mohammad Oli** — MERN Stack Developer  
