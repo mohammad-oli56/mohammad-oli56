@@ -1,5 +1,5 @@
 <!-- Banner (optional) -->
-<img src="https://ibb.co/YF8nM1v1" />
+<img src="https://i.ibb.co/8L2vpfFf/Whats-App-Image-2025-06-25-at-13-04-16-64e13c0f.jpg" alt="Whats-App-Image-2025-06-25-at-13-04-16-64e13c0f" border="0">
 
 # 💫 About Me:
 👋 Hi, I'm **Mohammad Oli** — MERN Stack Developer  
