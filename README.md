@@ -7,17 +7,15 @@
 <h3 align="center">MERN Stack Developer | Frontend Focused | Animation Enthusiast</h3>
 
 
-# 💫 About Me:
-👋 Hi, I'm **Mohammad Oli** — MERN Stack Developer  
-I'm a passionate and self-driven **MERN stack developer** with strong skills in **HTML, CSS, JavaScript, React, MongoDB, and Tailwind CSS**.  
-I enjoy building clean, responsive, and interactive web applications. I also love working with **web animations** to enhance UX and bring interfaces to life.  
-I'm always eager to learn, grow, and take on new challenges in the world of web development.
+## 🧑‍💻 About Me
 
-### 🔭 Current Focus:
-- 🌐 Exploring **Next.js**
-- 💼 Working on a **Tourism Website**
-- 🎨 Learning advanced **CSS animations and UI transitions**
-- 🛠 Deploying projects with **Firebase, Netlify & Vercel**
+I'm a self-taught **MERN stack developer** from Bangladesh, passionate about building modern, responsive, and animated web applications.  
+I love combining clean UI with solid backend logic to deliver user-friendly experiences.
+
+- 🌱 Currently exploring **Next.js**
+- 💻 Working on a **tourism website project**
+- 🎨 Experimenting with **web animations and micro-interactions**
+- 📚 Always learning new technologies and best practices
 
 ---
 
