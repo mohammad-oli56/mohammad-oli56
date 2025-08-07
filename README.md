@@ -2,6 +2,7 @@
 <div align="center">
 
 <!-- Header with animated background -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Oli&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 
 <!-- Animated typing with multiple lines -->
