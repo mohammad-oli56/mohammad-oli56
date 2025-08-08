@@ -25,11 +25,7 @@ I’m currently a **3rd-year CSE student at Dhaka International University**, de
 
 🚀 **Current Focus**  
 I’m sharpening my skills in **Next.js** and **full-stack MERN applications**, aiming to become a **pro developer** and eventually **launch my own startup**.  
-
-📌 **Fun Facts**  
-- I love turning ideas into **interactive, functional applications**.  
-- Always curious about **new tech trends**.  
-- Coding + a cup of tea = perfect combo ☕💻  
+ 
 
 📫 **Reach Me At**:  
 [LinkedIn](https://www.linkedin.com/in/mohammad-oli56/) | [GitHub](https://github.com/mohammad-oli56) | [WhatsApp](https://wa.me/+880XXXXXXXXXX)  
