@@ -11,7 +11,9 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+ <img src="assets/aboutme.gif" width="30"> About Me
+
+
 
 Hi there! 👋 I'm **Mohammad Oli**, a passionate **Full-Stack Web Developer** from Bangladesh 🇧🇩.  
 I’m currently a **3rd-year CSE student at Dhaka International University**, deeply interested in **modern web development** and building real-world projects.
