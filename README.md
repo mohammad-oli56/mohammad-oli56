@@ -67,7 +67,7 @@ I’m sharpening my skills in **Next.js** and **full-stack MERN applications**, 
 
 </div>
 
----
+
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> GitHub Trophies
 
@@ -127,3 +127,6 @@ interface Developer {
   };
   currentFocus: string["NextJS"];
 }
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You!%20%F0%9F%99%8F&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" />
