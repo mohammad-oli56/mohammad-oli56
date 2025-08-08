@@ -16,34 +16,9 @@
 <!-- About Section with Cards -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-<img align="right" height="270" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" />
 
-```yaml
-name: Md Rijoan Maruf
-located_in: Dhaka, Bangladesh
-current_work: Full-Stack Developer
-education: 
-  - "Computer Science & Engineering at AIUB"
 
-fields_of_interests:
-  - "Web Development"
-  - "Full Stack Development"
-  - "MERN Stack Developmnet"
-  - "Fornt-End Development"
-  - "Back-end Developmnet"
-  - "Open Source"
-  
-currently_learning: 
-  - "Next.js 15"
 
-2025_goals:
-  - "Contribute to Open Source Projects"
-  - "Build Amazing Full-Stack Applications"
-  - "Learn Cloud Technologies"
-  - "Share Knowledge with Community"
-```
-
-<br clear="right"/>
 
 
 
@@ -53,7 +28,7 @@ currently_learning:
 <div align="center">
 
 ### 🎨 **Frontend Development**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,materialui,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&theme=dark" />
 
 ### ⚙️ **Backend Development**
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
